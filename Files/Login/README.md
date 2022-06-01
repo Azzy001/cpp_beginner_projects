@@ -4,7 +4,7 @@ In this program, you will be asked to enter a username and password, the system 
 
 -----
 
-# Iportant
+# Important
 
 username is "Admin".
 
